@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/55083/display-a-pdf-in-wpf-application
+
+
+Piano Sonata No 11 in A Major Mozart
+
+check out VS extensions and Kaxaml
